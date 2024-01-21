@@ -1,54 +1,40 @@
-# Hey everyone, Piyush this side..
+# Hey everyone, Vishal this side..
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=harsh1000-hub.harsh1000-hub" />
 Welcome to my GitHub profile! 😊
 
 ## About Me
 
 I'm a software developer, my passion is to solve the problems of users keeping business in mind..
-
-- 🧑‍💻 My portfolio: [piyushsultaniya.com](https://piyushsultaniya.netlify.app)
-- 💼 Work-experience: Phonepuff | Fintellix (4 months)
-- 🚀 Learning: In depth MERN | Systems design | AWS for DevOps
+- 🚀 Learning: In depth DSA | SQL | DBMS | OS | fronted dev
 
 ## Skills
 
-- **Frontend**: HTML, CSS, JavaScript, React, Redux, React query, GraphQL
-- **Backend**: Node.js, Express, MongoDB, PostgreSQL
-- **UI/UX Design**: Blending development with design principles
-- **DevOps**: Learning AWS for deployment and infrastructure management
+- **Frontend**: HTML, CSS, JavaScript
+- **DBMS**: SQL , MySQL
 
 ## Projects
 
-### Doctero
-- Utilizing REST architecture for API design.
-- Implementing WebSockets for real-time connections.
-- Leveraging WebRTC for video call features.
-- Incorporating advanced API features like server-side sorting, filtering, and pagination.
-- Building the frontend using Next.js for enhanced performance
-- Find it at: [doctero-code](https://github.com/gitPiyushhh/doctero)
+• 2048 Game (Html,Css and Java Script):
+The objective of the game is to slide numbered tiles on a grid to combine them to create a tile with the number 2048.
+2048 is played on a plain 4×4 grid, with numbered tiles that slide when a player moves them using the 4 arrow keys.
 
-### Outdoors
-- REST Framework with proper client-server architecture and requests over HTTP.
-- Authentication Authorization through JWT(JSON Web Tokens).
-- NoSQL database for better scalability.
-- Server-Side rendering with Jade/Pug Templating Engines.
-- Find it at: [outdoors-code](https://github.com/gitPiyushhh/Natours-API)
-- Read API documentation: [outdoors-docs](https://documenter.getpostman.com/view/17555530/2s7ZE5rjZ8)
+• Contact Directory (Html,Css and Java Script):
+This project helps in understanding the use of trie data structure and its functionalities like add and delete in real life.
+A contact list can be used to store and retreive contact information fo every individual. Contacts may be found by
+searching by name and phone number. Delete contacts: removes contacts from the database.
 
-### Worldwise
-- Use of context API for remote and UI state management.
-- Custom hooks to consume context.
-- 3rd party packages used like leaflet, date-picker
-- Find it at: [worldwise-code](https://github.com/gitPiyushhh/Worldwise)
+• Sudoku Solver (Html,Css and Java Script):
+Sudoku is a logic-based puzzle .
+It is a type of constraint satisfaction problem, where the solver is given a finite number of objects (the numerals 1-9) and a
+set of conditions stating how the objects must be placed in relation to one another.
+It also has an auto solve feature which uses backtracking to provide its solution.
 
-## Resume
+• Rat In A Maze (Html,Css and Java Script):
+The Rat in a maze is a famous problem in which we have a N x N matrix (the maze) which consists of two types of cells -
+one the rat can pass through and the other that the rat cannot pass through.
+The objective of this project is to find all the possible paths that the rat can take to reach the destination cell from the
+given source cell.
 
-📄 More conventional: [Download My Resume](https://drive.google.com/file/d/1EaXA_c6Jmz4j-Woz3Idg__Sf_kxInYBo/view?usp=sharing) 
-
-## Connect With Me
-
-- [LinkedIn](https://www.linkedin.com/in/piyush-sultaniya-a5296a220/)
-- [Twitter](https://twitter.com/PiyushA89312692)
-- Email: piyushhhagarwal@gmail.com
+- Email: vishalsultania21@gmail.com
 
 Feel free to reach out if you have any questions or just want to chat about technology and development!
